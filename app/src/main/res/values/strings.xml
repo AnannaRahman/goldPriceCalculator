@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">De Gold Calculator</string>
+
+    <string-array name="gold_Karat">
+        <item>Select  Karat</item>
+        <item>24 Karat</item>
+        <item>22 Karat</item>
+        <item>21 Karat</item>
+        <item>18 Karat</item>
+        <item>14 Karat</item>
+        <item>10 Karat</item>
+        <item>6 Karat</item>
+    </string-array>
+
+    <string-array name="weight_unit">
+        <item>Gram</item>
+        <item>Oz</item>
+        <item>TOz</item>
+        <item>KG</item>
+    </string-array>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-4191967854054216~3366298823</string>
+    <string name="banner_home_footer">ca-app-pub-4191967854054216/9433013724</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
