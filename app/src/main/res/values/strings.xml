@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">De Gold Calculator</string>
+    <string name="app_name">De Gold Price Calculator</string>
 
     <string-array name="gold_Karat">
         <item>Select  Karat</item>
